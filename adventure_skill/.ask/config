@@ -1,0 +1,28 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.a6b60f82-f1f2-4181-b15a-38e36b819d0b",
+      "was_cloned": true,
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": "a96843fdbbf43fa6673496f44dc7c1c2"
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:455994645454:function:serverlessrepo-great-indi-alexaskillskitnodejsfact-1TIW8NY3HXXIK",
+            "awsRegion": "us-east-1",
+            "functionName": "serverlessrepo-great-indi-alexaskillskitnodejsfact-1TIW8NY3HXXIK",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "44c0b5c1-9798-4b4b-8e04-719335d8b90f",
+            "codeUri": "lambda/us-east-1_serverlessrepo-great-indi-alexaskillskitnodejsfact-1TIW8NY3HXXIK",
+            "handler": "index.handler",
+            "runtime": "nodejs10.x"
+          }
+        ]
+      }
+    }
+  }
+}
