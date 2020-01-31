@@ -2,7 +2,7 @@
 
 Young minds learn best when taught in an interactive fashion. Also, they love to hear animated voices more than ordinary human voices or even Alexa's voice. Our skill considers these factors and presents a character, Simba, for them to explore countries and learn about festivals with. The skill is targeted towards 3-9-year-old children. The skill is designed in a way that childer can learn on their own, or parents can invoke the skill and walk through it with their children.
 
-Once the user launches the skill by saying, "Open Simba", he/she can use it in two ways-
+Once the user launches the skill by saying, "Open Simba Safari", he/she can use it in two ways-
 1. Interactive mode that helps them learn about festivals.
 2. Interactive mode of exploring countries and learning about them.
 
