@@ -384,7 +384,7 @@ const FallBackHandler = {
     var SessionAttributes = handlerInput.attributesManager.getSessionAttributes();
     
     if(SessionAttributes.State === 'suggested a rhyme'){
-      speechText = `Simba had difficulty understaing by what you said, `
+      speechText = `Simba had difficulty understanding by what you said, `
       + `and do you want listen to ${SessionAttributes.SuggestedRhyme} `
       + `or try something else try answering with yes or no`;
 
